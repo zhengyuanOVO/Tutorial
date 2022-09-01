@@ -1,8 +1,13 @@
 first git commit
 sc git commit
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tutorial commit
 =======
 tutorial2 commit
 >>>>>>> c1c26369d321652ff4dfab854ece5d2b72574029
 加入等級系統
+=======
+tutorial2 commit
+加入任務功能
+>>>>>>> branch1
